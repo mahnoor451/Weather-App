@@ -52,14 +52,14 @@ A beautiful and intuitive weather application that provides real-time weather in
 
 ## 🚀 **Live Demo**
 
-**[👉 Click here to view the live demo](https://mahnoor451.github.io/weather-app)**
+**[👉 Click here to view the live demo](https://weather-app-psi-sand-93.vercel.app/)**
 
 *Replace with your actual Vercel or GitHub Pages URL*
 
 ---
 
 ## 📸 **Screenshots**
-[App Screen Shot](Weather-APP.jpeg)
+(Weather-APP.jpeg)
 
 ## 🛠️ **Built With**
 
